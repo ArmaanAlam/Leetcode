@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/ArmaanAlam/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
