@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/ArmaanAlam/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0583-delete-operation-for-two-strings](https://github.com/ArmaanAlam/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ArmaanAlam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0494-target-sum/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/ArmaanAlam/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArmaanAlam/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/ArmaanAlam/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/ArmaanAlam/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
