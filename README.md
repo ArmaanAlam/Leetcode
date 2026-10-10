@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArmaanAlam/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ArmaanAlam/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
