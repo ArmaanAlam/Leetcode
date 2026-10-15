@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/ArmaanAlam/Leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ArmaanAlam/Leetcode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
