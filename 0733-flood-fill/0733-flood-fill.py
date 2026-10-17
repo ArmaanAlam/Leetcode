@@ -6,28 +6,24 @@ class Solution:
 
         return row < n and col < m and row >= 0 and col >= 0 and image[row][col] == oldcolor and not visit[row][col]
 
-    def BFS(self, image, visit, color, oldcolor, row, col):
-        q = deque()
-        q.append([row, col])
-        image[row][col] = color
+    
+    
+
+    def DFS(self, image, visit, color, oldcolor, row, col):
+
         visit[row][col] = True
+        image[row][col] = color
 
         dr = [-1, 0, 1, 0]
         dc = [0, -1, 0, 1]
 
-        while q:
-            r = q[0][0]
-            c = q[0][1]
-            q.popleft()
+        for i in range(4):
+            nrow = row + dr[i]
+            ncol = col + dc[i]
 
-            for i in range(4):
-                nrow = r + dr[i]
-                ncol = c + dc[i]
+            if(self.isValid(image, visit, oldcolor, nrow, ncol)):
+                self.DFS(image, visit, color, oldcolor, nrow, ncol)
 
-                if(self.isValid(image, visit, oldcolor, nrow, ncol)):
-                    q.append([nrow, ncol])
-                    image[nrow][ncol] = color
-                    visit[nrow][ncol] = True
         
 
 
@@ -43,7 +39,7 @@ class Solution:
 
         visit = [[False]*m for _ in range(n)]
 
-        self.BFS(image, visit, color, oldcolor, sr, sc)
+        self.DFS(image, visit, color, oldcolor, sr, sc)
 
         return image
 
