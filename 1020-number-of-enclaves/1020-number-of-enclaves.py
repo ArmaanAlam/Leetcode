@@ -30,6 +30,22 @@ class Solution:
                     q.append([nrow, ncol])
                     visit[nrow][ncol] = False
 
+    
+    def DFS(self, grid, visit, row, col):
+
+        visit[row][col] = False
+        dr = [-1, 0, 1, 0]
+        dc = [0, -1, 0, 1]
+
+        for i in range(4):
+            nrow = row + dr[i]
+            ncol = col + dc[i]
+
+            if(self.isValid(grid, visit, nrow, ncol)):
+                self.DFS(grid, visit, nrow, ncol)
+
+
+
     def numEnclaves(self, grid: list[list[int]]) -> int:
 
         n = len(grid)
@@ -39,18 +55,18 @@ class Solution:
 
         for i in range(n):
             if(grid[i][0]):
-                self.BFS(grid, visit, i, 0)
+                self.DFS(grid, visit, i, 0)
 
             if(grid[i][m-1]):
-                self.BFS(grid, visit, i, m-1)
+                self.DFS(grid, visit, i, m-1)
         
 
         for j in range(m):
             if(grid[0][j]):
-                self.BFS(grid, visit, 0, j)
+                self.DFS(grid, visit, 0, j)
 
             if(grid[n-1][j]):
-                self.BFS(grid, visit, n-1, j)
+                self.DFS(grid, visit, n-1, j)
 
         
         count = 0
