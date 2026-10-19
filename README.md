@@ -178,4 +178,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1109-corporate-flight-bookings](https://github.com/ArmaanAlam/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
