@@ -1,35 +1,41 @@
 class Solution:
+
+    def DFS(self, graph, visit, pathvisit, safe, node):
+
+        visit[node] = True
+        pathvisit[node] = True
+
+        for adjnode in graph[node]:
+
+           
+            if not visit[adjnode]:
+                if self.DFS(graph, visit, pathvisit, safe, adjnode):
+                    safe[node] = 0
+                    return True
+
+           
+            elif pathvisit[adjnode]:
+                safe[node] = 0
+                return True
+
+        pathvisit[node] = False
+        safe[node] = 1
+        return False
+
     def eventualSafeNodes(self, graph: list[list[int]]) -> list[int]:
-        
+
         V = len(graph)
-        indegree = [0]*V
-        q = deque()
-        adj = [[] for _ in range(V)]
+        visit = [False] * V
+        pathvisit = [False] * V
+        safe = [0] * V
         ans = []
 
-        for u in range(V):
-            for v in graph[u]:
-                adj[v].append(u)
-        
-
-        for u in range(V):
-            for v in adj[u]:
-                indegree[v] += 1
-        
         for i in range(V):
-            if indegree[i] == 0:
-                q.append(i)
-        
+            if not visit[i]:
+                self.DFS(graph, visit, pathvisit, safe, i)
 
-        while q:
-            node = q[0]
-            q.popleft()
-            ans.append(node)
-            for adjnode in adj[node]:
-                indegree[adjnode] -= 1
-                if indegree[adjnode] == 0:
-                    q.append(adjnode)
-        
-        ans.sort()
+        for i in range(V):
+            if safe[i] == 1:
+                ans.append(i)
 
         return ans
