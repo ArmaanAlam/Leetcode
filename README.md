@@ -183,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,8 +212,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
