@@ -181,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -202,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
