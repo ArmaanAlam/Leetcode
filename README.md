@@ -184,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArmaanAlam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
