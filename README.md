@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ArmaanAlam/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
