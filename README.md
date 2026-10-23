@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArmaanAlam/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ArmaanAlam/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArmaanAlam/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ArmaanAlam/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ArmaanAlam/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 <!---LeetCode Topics End-->
