@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2924-find-champion-ii](https://github.com/ArmaanAlam/Leetcode/tree/main/2924-find-champion-ii/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
