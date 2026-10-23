@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0494-target-sum/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArmaanAlam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/ArmaanAlam/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ArmaanAlam/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ArmaanAlam/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ArmaanAlam/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/ArmaanAlam/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
