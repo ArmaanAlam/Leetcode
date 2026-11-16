@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ArmaanAlam/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0494-target-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArmaanAlam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArmaanAlam/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ArmaanAlam/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
