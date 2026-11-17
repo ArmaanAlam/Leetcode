@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/ArmaanAlam/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0583-delete-operation-for-two-strings](https://github.com/ArmaanAlam/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ArmaanAlam/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
