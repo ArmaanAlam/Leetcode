@@ -11,10 +11,8 @@ public:
             max_freq = max(max_freq, mp[nums[i]]);
         }
 
-        vector<pair<int, int>> pq(mp.begin(), mp.end());
-
-        for(int i = 0; i < pq.size(); i++){
-            if(pq[i].second == max_freq){
+        for(auto it : mp){
+            if(it.second == max_freq){
                 count += max_freq;
             }
         }
