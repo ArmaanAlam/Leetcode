@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ArmaanAlam/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArmaanAlam/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ArmaanAlam/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ArmaanAlam/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArmaanAlam/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArmaanAlam/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ArmaanAlam/Leetcode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ArmaanAlam/Leetcode/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
