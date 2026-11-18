@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArmaanAlam/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArmaanAlam/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/ArmaanAlam/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ArmaanAlam/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArmaanAlam/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Longest Increasing Subsequence
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ArmaanAlam/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArmaanAlam/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 <!---LeetCode Topics End-->
