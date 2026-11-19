@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArmaanAlam/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ArmaanAlam/Leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ArmaanAlam/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArmaanAlam/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArmaanAlam/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
