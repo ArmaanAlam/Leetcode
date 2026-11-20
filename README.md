@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArmaanAlam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ArmaanAlam/Leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArmaanAlam/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArmaanAlam/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/ArmaanAlam/Leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ArmaanAlam/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArmaanAlam/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
