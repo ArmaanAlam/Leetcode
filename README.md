@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ArmaanAlam/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ArmaanAlam/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ArmaanAlam/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0860-lemonade-change](https://github.com/ArmaanAlam/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ArmaanAlam/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArmaanAlam/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0860-lemonade-change](https://github.com/ArmaanAlam/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ArmaanAlam/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
