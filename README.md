@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ArmaanAlam/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1905-count-sub-islands](https://github.com/ArmaanAlam/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArmaanAlam/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArmaanAlam/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ArmaanAlam/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1048-longest-string-chain](https://github.com/ArmaanAlam/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/ArmaanAlam/Leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArmaanAlam/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ArmaanAlam/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ArmaanAlam/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ArmaanAlam/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArmaanAlam/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ArmaanAlam/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArmaanAlam/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ArmaanAlam/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
