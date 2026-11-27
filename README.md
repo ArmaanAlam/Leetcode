@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ArmaanAlam/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/ArmaanAlam/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/ArmaanAlam/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
