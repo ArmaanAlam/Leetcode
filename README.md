@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArmaanAlam/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ArmaanAlam/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/ArmaanAlam/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
