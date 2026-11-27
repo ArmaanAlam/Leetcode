@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ArmaanAlam/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ArmaanAlam/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3360-stone-removal-game](https://github.com/ArmaanAlam/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ArmaanAlam/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ArmaanAlam/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ArmaanAlam/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/ArmaanAlam/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ArmaanAlam/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
